@@ -27,7 +27,7 @@ npm run dev
 
 The application will be available at:
 - **Local Access:** http://localhost:5173/
-- **Network Access:** http://10.157.185.105:5173/ (for accessing from other computers on the network)
+
 
 To make the server accessible on your network, use:
 ```bash
